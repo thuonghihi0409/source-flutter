@@ -1,0 +1,710 @@
+{
+  "@@locale": "vi",
+  "loginTitle": "Đăng nhập",
+  "companyField": "Công ty",
+  "companyHint": "Công ty",
+  "usernameField": "Tên người dùng",
+  "passwordField": "Mật khẩu",
+  "loginButton": "Đăng nhập",
+  "registerLink": "Bạn chưa có tài khoản? Đăng ký",
+  "companyRequired": "Bắt buộc nhập tên công ty",
+  "usernameRequired": "Bắt buộc nhập tên người dùng",
+  "passwordRequired": "Bắt buộc nhập mật khẩu",
+  "invalidCredentials": "Sai tên người dùng hoặc mật khẩu.",
+  "domainNotRegistered": "Bạn chưa đăng ký với chúng tôi. Hãy nhấp vào đăng ký phía dưới",
+  "wrongUsername": "Sai tên người dùng",
+  "wrongPassword": "Sai mật khẩu",
+  "networkError": "Không thể kết nối đến máy chủ. Vui lòng kiểm tra lại tên công ty hoặc kết nối mạng.",
+  "sunday": "Chủ nhật",
+  "monday": "Thứ hai",
+  "tuesday": "Thứ ba",
+  "wednesday": "Thứ tư",
+  "thursday": "Thứ năm",
+  "friday": "Thứ sáu",
+  "saturday": "Thứ bảy",
+  "day": "ngày",
+  "unknownError": "Đã xảy ra lỗi không mong muốn",
+  "logoutTitle": "Đăng xuất",
+  "logoutConfirm": "Đăng xuất khỏi tài khoản của bạn?",
+  "logoutButton": "Đăng xuất",
+  "cancelButton": "Hủy",
+  "logoutSuccess": "Đăng xuất thành công",
+  "logoutError": "Lỗi đăng xuất",
+  "profileTitle": "Hồ sơ cá nhân",
+  "userName": "Tên người dùng",
+  "menuButton": "Menu",
+  "homeButton": "Trang chủ",
+  "notificationButton": "Thông báo",
+  "profileButton": "Cá nhân",
+  "createApplicationButton": "Tạo đơn từ",
+  "languageTitle": "Chọn ngôn ngữ",
+  "vietnamese": "Tiếng Việt",
+  "english": "English",
+  "changePasswordTitle": "Thay đổi mật khẩu",
+  "changePasswordButton": "Thay đổi mật khẩu",
+  "suggestButton": "Đề xuất",
+  "passwordGenerated": "Đã tạo mật khẩu mới",
+  "notificationsTitle": "Thông báo",
+  "hrmTitle": "HRM",
+  "homeTitle": "Trang chủ",
+  "registerTitle": "Đăng ký HRM",
+  "registerButton": "Đăng ký",
+  "registerSuccess": "Đăng ký thành công!",
+  "domainNotRegisteredTitle": "Domain chưa đăng ký",
+  "contactSupport": "Vui lòng liên hệ hỗ trợ:",
+  "emailLabel": "Email:",
+  "phoneLabel": "Điện thoại:",
+  "closeButton": "Đóng",
+  "sessionExpiredTitle": "Phiên đăng nhập hết hạn",
+  "loginAgainButton": "Đăng nhập lại",
+  "currentPasswordHint": "Mật khẩu hiện tại",
+  "newPasswordHint": "Mật khẩu mới",
+  "confirmPasswordHint": "Xác nhận mật khẩu mới",
+  "currentPasswordRequired": "Vui lòng nhập mật khẩu hiện tại",
+  "newPasswordRequired": "Vui lòng nhập mật khẩu mới",
+  "passwordMinLength": "Mật khẩu phải có ít nhất 8 ký tự",
+  "passwordMustBeDifferent": "Mật khẩu mới phải khác mật khẩu hiện tại",
+  "confirmPasswordRequired": "Vui lòng xác nhận mật khẩu mới",
+  "passwordsDoNotMatch": "Mật khẩu xác nhận không khớp",
+  "companyNameRequired": "Vui lòng nhập tên công ty",
+  "erpnextUrlRequired": "Vui lòng nhập ERPNext URL",
+  "countryRequired": "Vui lòng nhập quốc gia",
+  "nameRequired": "Vui lòng nhập tên",
+  "emailRequired": "Vui lòng nhập email",
+  "emailInvalid": "Email không hợp lệ",
+  "phoneRequired": "Vui lòng nhập số điện thoại",
+  "employeeId": "ID Nhân viên",
+  "dateOfJoining": "Ngày tham gia",
+  "dateOfBirth": "Ngày sinh",
+  "gender": "Giới tính",
+  "email": "Email",
+  "company": "Công ty",
+  "status": "Trạng thái",
+  "passwordMinLengthMessage": "Mật khẩu phải có ít nhất 8 ký tự",
+  "passwordUppercaseMessage": "Mật khẩu phải chứa ít nhất một chữ cái viết hoa",
+  "passwordLowercaseMessage": "Mật khẩu phải chứa ít nhất một chữ cái viết thường",
+  "passwordNumberMessage": "Mật khẩu phải chứa ít nhất một chữ số",
+  "passwordSpecialCharMessage": "Mật khẩu phải chứa ít nhất một ký tự đặc biệt",
+  "passwordStrongMessage": "Mật khẩu mạnh!",
+  "welcomeBack": "Chào mừng trở lại",
+  "usernameHint": "Nhập tên người dùng",
+  "passwordHint": "Nhập mật khẩu",
+  "forgotPassword": "Quên mật khẩu",
+  "loginWithGoogle": "Đăng nhập với Google",
+  "orLoginWith": "Hoặc đăng nhập với",
+  "dontHaveAccount": "Bạn chưa có tài khoản? ",
+  "register": "Đăng ký",
+  "loginSuccess": "Đăng nhập thành công!",
+  "passwordMinLength6": "Mật khẩu phải có ít nhất 6 ký tự",
+  "cannotGetGoogleToken": "Không thể lấy access token từ Google",
+  "googleLoginFailed": "Đăng nhập Google thất bại",
+  "error": "Lỗi",
+  "tryAgain": "Thử lại",
+  "searchHint": "Tìm kiếm...",
+  "uploadFile": "Tải tập lên",
+  "photoLibrary": "Thư viện ảnh",
+  "selectFromLibrary": "Chọn ảnh từ thư viện",
+  "takePhotoVideo": "Chụp ảnh/video",
+  "takeNewPhotoVideo": "Chụp ảnh hoặc video mới",
+  "selectFile": "Chọn tệp",
+  "selectFileFromDevice": "Chọn tệp từ thiết bị",
+  "cannotSelectImageFromLibrary": "Không thể chọn ảnh từ thư viện",
+  "fileTooLarge": "Tệp {fileName} quá lớn. Kích thước tối đa: {maxSize}",
+  "cannotSelectFile": "Không thể chọn tệp",
+  "uploadImage": "Tải ảnh lên",
+  "uploadDocument": "Tải tài liệu lên",
+  "uploadReceipt": "Tải hóa đơn lên",
+  "documentDetected": "✅ Phát hiện giấy tờ!",
+  "alignDocument": "Căn chỉnh giấy tờ",
+  "autoCapturing": "Đang chụp ảnh tự động...",
+  "documentInstructions": "Đặt CMND/CCCD hoặc Passport vào khung và đảm bảo:\n• Tất cả 4 góc nằm trong khung\n• Giấy tờ phẳng, không bị nhăn\n• Chữ rõ nét, không bị mờ\n\n🤖 Hệ thống sẽ tự động chụp khi phát hiện giấy tờ",
+  "documentDetectedAutoCapture": "✅ Phát hiện giấy tờ! Đang chụp ảnh...",
+  "alignDocumentInFrame": "📷 Căn chỉnh giấy tờ vào khung camera",
+  "initializingCamera": "Đang khởi tạo camera...",
+  "cannotTakePhoto": "Không thể chụp ảnh",
+  "pleaseGrantCameraPermission": "Vui lòng cấp quyền truy cập camera trong cài đặt",
+  "cannotAccessCamera": "Không thể truy cập camera",
+  "noCameraFound": "Không tìm thấy camera trên thiết bị",
+  "cannotSelectImage": "Không thể chọn ảnh",
+  "selectImageFromLibrary": "Chọn hình ảnh từ thư viện",
+  "registerAccount": "Đăng ký tài khoản",
+  "fullName": "Họ và Tên",
+  "fullNameHint": "Nhập họ và tên",
+  "fullNameRequired": "Vui lòng nhập họ và tên",
+  "emailHint": "Nhập email",
+  "emailInvalidFormat": "Vui lòng nhập email hợp lệ",
+  "confirmPassword": "Xác nhận lại mật khẩu",
+  "confirmPasswordHint": "Nhập lại mật khẩu",
+  "confirmPasswordRequired": "Vui lòng xác nhận mật khẩu",
+  "passwordsDoNotMatch": "Mật khẩu xác nhận không khớp",
+  "alreadyHaveAccount": "Bạn đã có tài khoản? ",
+  "registerSuccess": "Đăng ký thành công!",
+  "forgotPasswordTitle": "Quên mật khẩu",
+  "passwordRecoveryTitle": "Khôi phục mật khẩu",
+  "emailLabel": "Email",
+  "emailHint": "Nhập email liên kết",
+  "emailRequired": "Vui lòng nhập email",
+  "emailInvalidFormat": "Vui lòng nhập email hợp lệ",
+  "captchaCode": "Mã Captcha",
+  "captchaCodeHint": "Nhập mã captcha",
+  "captchaCodeRequired": "Vui lòng nhập mã captcha",
+  "sendOtp": "Gửi OTP",
+  "cannotLoadCaptcha": "Không thể tải captcha",
+  "pleaseReloadCaptcha": "Vui lòng tải lại CAPTCHA",
+  "otpVerificationTitle": "Xác minh OTP",
+  "enterOtpSentToEmail": "Nhập mã 6 số đã gửi đến email của bạn:",
+  "otpCode": "Mã OTP",
+  "otpMustBe6Digits": "Mã OTP phải có 6 số",
+  "newPassword": "Mật khẩu mới",
+  "newPasswordHint": "Nhập mật khẩu mới",
+  "newPasswordRequired": "Vui lòng nhập mật khẩu",
+  "passwordMinLength6": "Mật khẩu phải có ít nhất 6 ký tự",
+  "confirmNewPassword": "Xác nhận mật khẩu mới",
+  "confirmNewPasswordHint": "Nhập lại mật khẩu mới",
+  "confirmNewPasswordRequired": "Vui lòng xác nhận mật khẩu",
+  "passwordsDoNotMatch": "Mật khẩu xác nhận không khớp",
+  "confirm": "Xác nhận",
+  "pleaseEnterFullOtp": "Vui lòng nhập đầy đủ 6 số OTP",
+  "otpSentToEmail": "Mã xác minh đã được gửi đến email của bạn",
+  "passwordRecoveryEmailSent": "Email khôi phục mật khẩu đã được gửi đến hộp thư của bạn",
+  "otpVerificationSuccess": "Xác minh thành công",
+  "passwordResetSuccess": "Mật khẩu đã được đặt lại thành công",
+  "resendOtp": "Gửi lại OTP",
+  "getOtp": "Lấy mã OTP",
+  "depositToken": "Nạp token",
+  "banking": "Ngân hàng",
+  "bankDeposit": "Nạp tiền ngân hàng",
+  "expirationTime": "Thời gian hết hạn",
+  "minute": "phút",
+  "second": "giây",
+  "accountNumber": "Số tài khoản",
+  "beneficiary": "Người thụ hưởng",
+  "amount": "Số tiền",
+  "content": "Nội dung",
+  "done": "Hoàn thành",
+  "noTokenSupportBankingDeposit": "Không có token nào hỗ trợ nạp banking",
+  "selectToken": "Chọn token",
+  "depositAmount": "Số tiền nạp",
+  "enterAmountVND": "Nhập số tiền VNĐ",
+  "enterAmount": "Nhập số tiền",
+  "errorOccurred": "Có lỗi xảy ra",
+  "selectNetwork": "Chọn mạng",
+  "depositAddress": "Địa chỉ nạp tiền",
+  "pleaseSelectTokenFirst": "Vui lòng chọn token trước",
+  "addressCopiedToClipboard": "Đã sao chép địa chỉ vào clipboard",
+  "qrCodeDownloaded": "Đã tải xuống mã QR",
+  "download": "Tải xuống",
+  "failedToLoadDepositData": "Không thể tải dữ liệu nạp tiền",
+  "unexpectedErrorOccurred": "Đã xảy ra lỗi không mong muốn",
+  "failedToGenerateDepositAddress": "Không thể tạo địa chỉ nạp tiền",
+  "failedToSubmitDepositRequest": "Không thể gửi yêu cầu nạp tiền",
+  "failedToLoadDepositHistory": "Không thể tải lịch sử nạp tiền",
+  "continueText": "Tiếp tục",
+  "address": "Địa chỉ",
+  "errorLoadingData": "Lỗi tải dữ liệu",
+  "history": "Lịch sử",
+  "loading": "Đang tải...",
+  "errorLoadingTransactions": "Lỗi tải giao dịch",
+  "retry": "Thử lại",
+  "noTransactionsFound": "Không tìm thấy giao dịch",
+  "transactionHistoryWillAppearHere": "Lịch sử giao dịch của bạn sẽ xuất hiện ở đây",
+  "allTransactionsDisplayed": "Đã hiển thị tất cả giao dịch",
+  "filters": "Bộ lọc",
+  "clearFilters": "Xóa bộ lọc",
+  "transactionType": "Loại giao dịch",
+  "status": "Trạng thái",
+  "all": "Tất cả",
+  "fromDate": "Từ ngày",
+  "toDate": "Đến ngày",
+  "selectDate": "Chọn ngày",
+  "stakeToken": "Stake Token",
+  "unstakeToken": "Unstake Token",
+  "claimRewards": "Claim Rewards",
+  "pending": "Đang chờ",
+  "confirmed": "Đã xác nhận",
+  "cancelled": "Đã hủy",
+  "rejected": "Bị từ chối",
+  "expired": "Hết hạn",
+  "txid": "TXID",
+  "amount": "Số tiền",
+  "time": "Thời gian",
+  "type": "Loại",
+  "detail": "Chi tiết",
+  "action": "Hành động",
+  "verify": "Xác thực",
+  "pending": "Đang chờ",
+  "stakingReward": "Staking/Reward",
+  "balance": "Số dư",
+  "depositToken": "Nạp token",
+  "withdrawToken": "Rút token",
+  "selectAccount": "Chọn tài khoản",
+  "assets": "Tài sản",
+  "services": "Dịch vụ",
+  "support": "Hỗ trợ",
+  "scanQR": "Scan QR",
+  "scanQrCodeTitle": "Quét mã QR",
+  "noImagesAvailable": "Không có hình ảnh nào",
+  "invalidQrCode": "QR code không hợp lệ hoặc không được hỗ trợ",
+  "voucher": "Voucher",
+  "overnightInterest": "Lãi qua đêm",
+  "paymentHistory": "Lịch sử chi hộ",
+  "viewAll": "Xem tất cả",
+  "buyVoucher": "MUA VOUCHER",
+  "goNow": "Đến ngay",
+  "buyVoucherDescription": "Mua voucher điện tử dễ dàng, nhanh chóng và tiện lợi",
+  "failed": "Thất bại",
+  "kyc": "KYC",
+  "documentType": "Loại giấy tờ",
+  "idCard": "CMND/CCCD",
+  "passport": "Passport",
+  "currentAddress": "Địa chỉ hiện tại",
+  "city": "Thành phố",
+  "selectCity": "Chọn thành phố",
+  "ward": "Phường/Xã",
+  "pleaseSelectCityFirst": "Vui lòng chọn thành phố trước",
+  "selectWard": "Chọn phường/xã",
+  "address": "Thôn/Nhà/Phố",
+  "enterAddress": "Nhập thôn/nhà/phố...",
+  "pleaseEnterAddress": "Vui lòng nhập địa chỉ",
+  "pleaseSelect": "Vui lòng chọn {label}",
+  "submitKYC": "Gửi KYC",
+  "cannotInitializeCamera": "Không thể khởi tạo camera",
+  "cameraNotReady": "Camera chưa sẵn sàng",
+  "recordingVideoLookStraight": "Đang quay video - Nhìn thẳng vào camera",
+  "cannotStartVideoRecording": "Không thể bắt đầu quay video",
+  "errorFileNotVideo": "Lỗi: File không phải video. Vui lòng thử lại.",
+  "videoAndFaceImagesSavedSuccessfully": "Video và ảnh khuôn mặt đã được lưu thành công!",
+  "errorStoppingVideoRecording": "Lỗi khi dừng quay video",
+  "pleaseEnterFullName": "Vui lòng nhập họ và tên",
+  "pleaseSelectDateOfBirth": "Vui lòng chọn ngày sinh",
+  "pleaseSelectCity": "Vui lòng chọn thành phố",
+  "pleaseSelectWard": "Vui lòng chọn phường/xã",
+  "pleaseEnterIdNumber": "Vui lòng nhập số CMND/CCCD",
+  "pleaseUploadFrontImage": "Vui lòng tải lên ảnh mặt trước",
+  "pleaseUploadBackImage": "Vui lòng tải lên ảnh mặt sau",
+  "pleaseRecordVerificationVideo": "Vui lòng quay video xác thực",
+  "verificationVideoInvalid": "Video xác thực không hợp lệ",
+  "noFaceImagesPleaseRecordAgain": "Chưa có ảnh khuôn mặt. Vui lòng quay video lại.",
+  "pleaseSelectCountry": "Vui lòng chọn quốc gia",
+  "pleaseEnterPassportNumber": "Vui lòng nhập số passport",
+  "pleaseUploadPassportImage": "Vui lòng tải lên ảnh passport",
+  "processingKYC": "Đang xử lý KYC...",
+  "kycSubmittedSuccessfully": "KYC đã được gửi thành công!",
+  "openingNativeCamera": "Đang mở camera native...",
+  "videoRecordedSuccessfullyWithNativeCamera": "Quay video thành công với camera native!",
+  "videoRecordingFailedPleaseTryAgain": "Quay video thất bại. Vui lòng thử lại.",
+  "cameraError": "Lỗi camera",
+  "recordVerificationVideo": "Quay video xác thực",
+  "recordVideo30SecondsAndCapture3FaceAngles": "Quay video 30 giây và chụp 3 góc mặt tự động (thẳng, trái, phải)",
+  "videoRecordedSuccessfully": "Video đã được quay thành công",
+  "capturedAll3FaceAngles": "Đã chụp đủ 3 góc mặt",
+  "recordVideoAgain": "Quay lại video",
+  "startRecordingVideo": "Bắt đầu quay video",
+  "instructions": "Hướng dẫn:",
+  "videoRecordingInstructions": "1. Nhấn \"Bắt đầu quay video\"\n2. Camera sẽ mở tự động\n3. Nhìn thẳng vào camera\n4. Quay mặt trái và phải\n5. Video sẽ tự động dừng khi đủ 3 góc",
+  "errorLoadingCities": "Lỗi khi tải danh sách tỉnh thành",
+  "errorLoadingWards": "Lỗi khi tải danh sách phường/xã",
+  "errorLoadingCountries": "Lỗi khi tải danh sách quốc gia",
+  "personalInformation": "Thông tin cá nhân",
+  "fullName": "Họ và tên",
+  "enterYourName": "Nhập tên của bạn",
+  "dateOfBirth": "Ngày sinh",
+  "selectDateOfBirth": "Chọn ngày sinh",
+  "personalDocuments": "Giấy tờ cá nhân",
+  "frontSide": "Mặt trước",
+  "backSide": "Mặt sau",
+  "enterIdNumber": "Nhập CMND/CCCD",
+  "invalidIdNumber": "Số CMND/CCCD không hợp lệ",
+  "upload": "Tải lên",
+  "openCamera": "Mở camera",
+  "noOvernightInterest": "Chưa có lãi qua đêm",
+  "holdDnpayToReceiveDailyInterest": "Giữ DNPAY để nhận lãi suất hàng ngày",
+  "reward": "Phần thưởng",
+  "penalty": "Phạt",
+  "errorLoadingOvernightInterest": "Lỗi tải dữ liệu lãi qua đêm",
+  "errorRefreshingData": "Lỗi làm mới dữ liệu",
+  "errorLoadingMoreData": "Lỗi tải thêm dữ liệu",
+  "profile": "Hồ sơ",
+  "transactionLimit": "Hạn mức giao dịch",
+  "yourVoucher": "Voucher của bạn",
+  "confirmLogout": "Bạn có chắc chắn muốn đăng xuất?",
+  "currentPassword": "Mật khẩu hiện tại",
+  "pleaseEnterCurrentPassword": "Vui lòng nhập mật khẩu hiện tại",
+  "pleaseEnterNewPassword": "Vui lòng nhập mật khẩu mới",
+  "passwordMustBeAtLeast6Characters": "Mật khẩu phải có ít nhất 6 ký tự",
+  "pleaseConfirmPassword": "Vui lòng xác nhận mật khẩu",
+  "passwordConfirmationDoesNotMatch": "Mật khẩu xác nhận không khớp",
+  "passwordChangedSuccessfully": "Mật khẩu đã được thay đổi thành công",
+  "newPasswordMustBeDifferentFromCurrent": "Mật khẩu mới phải khác mật khẩu hiện tại",
+  "selectLanguageTitle": "Chọn ngôn ngữ",
+  "selectVoucher": "Chọn voucher",
+  "applyLocation": "Vị trí áp dụng",
+  "description": "Mô tả",
+  "note": "Ghi chú",
+  "exchangeVoucher": "Đổi voucher",
+  "errorLoadingCheckoutInfo": "Có lỗi xảy ra khi tải thông tin checkout. Vui lòng thử lại sau.",
+  "brandName": "Tên thương hiệu",
+  "searchByBrandName": "Tìm kiếm theo tên thương hiệu",
+  "category": "Danh mục",
+  "province": "Tỉnh thành",
+  "quantity": "Số lượng",
+  "withdrawToken": "Rút token",
+  "selectNetwork": "Chọn network",
+  "pleaseSelectNetworkFirst": "Vui lòng chọn network trước",
+  "selectToken": "Chọn token",
+  "walletAddress": "Địa chỉ ví",
+  "enterWalletAddress": "Nhập địa chỉ ví",
+  "enterQuantity": "Nhập số lượng",
+  "max": "Max",
+  "insufficientBalanceForFee": "Số dư không đủ để trả phí",
+  "transactionSummary": "Tóm tắt giao dịch",
+  "fee": "Phí",
+  "networkWarningMessage": "Mạng bạn đã chọn là",
+  "networkWarningMessage2": "vui lòng đảm bảo rằng mạng hỗ trợ",
+  "withdrawalOnly": "rút tiền chỉ",
+  "networkWarningMessage3": "Bạn có thể mất tài sản nếu nền tảng đã chọn không hỗ trợ hoàn thành việc tải tài sản sai.",
+  "otpSentSuccessfully": "Mã OTP đã được gửi",
+  "errorSendingOtp": "Lỗi gửi OTP",
+  "confirmWithdraw": "Xác nhận rút",
+  "confirmOtp": "Xác nhận OTP",
+  "resendOtp": "Gửi lại OTP",
+  "getOtp": "Lấy mã OTP",
+  "withdrawConfirmedSuccessfully": "Xác nhận rút tiền thành công",
+  "errorConfirmingWithdraw": "Lỗi xác nhận rút tiền",
+  "continueText": "Tiếp tục",
+  "farming": "Farming",
+  "myFarming": "Farming của tôi",
+  "stakingReward": "Staking/Reward",
+  "apr": "APR",
+  "lockupPeriod": "Thời gian khoá",
+  "cycle": "Chu kỳ",
+  "startDate": "Bắt đầu",
+  "stakingStartsIn": "Staking bắt đầu trong",
+  "status": "Trạng thái",
+  "action": "Thao tác",
+  "upcoming": "Sắp diễn ra",
+  "active": "Đang diễn ra",
+  "ended": "Đã kết thúc",
+  "completed": "Đã hoàn thành",
+  "unknown": "Không xác định",
+  "details": "Chi tiết",
+  "days": "ngày",
+  "hours": "giờ",
+  "minutes": "phút",
+  "seconds": "giây",
+  "stakingEndsIn": "Staking kết thúc trong",
+  "stakedAmount": "Số lượng stake",
+  "estimatedProfit": "Lợi nhuận dự kiến",
+  "rewardsReceived": "Reward đã nhận",
+  "unstakeTime": "Thời gian unstake",
+  "tapToStartRecording": "Chạm để bắt đầu quay",
+  "recordVideoInstructions": "Đặt khuôn mặt trong khung camera và chạm để bắt đầu quay. Video sẽ được ghi để xác minh danh tính.",
+  "startRecording": "Bắt đầu quay",
+  "cameraError": "Lỗi Camera",
+  "openingNativeCamera": "Đang mở Camera Native",
+  "capturedFaceImages": "Ảnh khuôn mặt đã chụp",
+  "kycVerification": "Xác minh KYC",
+  "enterYourAddress": "Nhập địa chỉ của bạn",
+  "pleaseEnterYourAddress": "Vui lòng nhập địa chỉ của bạn",
+  "submitKyc": "Gửi KYC",
+  "videoRecordedSuccessfullyWithNativeCamera": "Video đã được ghi thành công với camera native",
+  "videoRecordingFailedPleaseTryAgain": "Ghi video thất bại, vui lòng thử lại",
+  "capturedAll3FaceAngles": "Đã chụp đủ 3 góc khuôn mặt",
+  "startRecordingVideo": "Bắt đầu ghi video",
+  "recordVideoAgain": "Ghi video lại",
+  "instructions": "Hướng dẫn",
+  "videoRecordingInstructions": "Đặt khuôn mặt trong khung camera và chạm để bắt đầu ghi. Video sẽ được ghi để xác minh danh tính.",
+  "startsIn": "Bắt đầu trong",
+  "@startsIn": {
+    "description": "Bắt đầu trong countdown label"
+  },
+  "endsIn": "Kết thúc trong",
+  "@endsIn": {
+    "description": "Kết thúc trong countdown label"
+  },
+  "endedAt": "Đã kết thúc lúc",
+  "@endedAt": {
+    "description": "Đã kết thúc lúc time label"
+  },
+  "timeStatus": "Trạng thái thời gian",
+  "@timeStatus": {
+    "description": "Trạng thái thời gian label"
+  },
+  "imageSelectionFailed": "Không thể chọn ảnh. Vui lòng thử lại.",
+  "@imageSelectionFailed": {
+    "description": "Thông báo lỗi khi không thể chọn ảnh từ thư viện"
+  },
+  "unexpectedProblemOccurred": "Đã xảy ra vấn đề không mong muốn.",
+  "@unexpectedProblemOccurred": {
+    "description": "Thông báo lỗi chung cho các vấn đề không mong muốn"
+  },
+  "fieldRequired": "Trường này không được để trống",
+  "@fieldRequired": {
+    "description": "Thông báo lỗi khi trường bắt buộc không được nhập"
+  },
+  "invalidAmount": "Số tiền không hợp lệ",
+  "@invalidAmount": {
+    "description": "Thông báo lỗi khi số tiền không hợp lệ"
+  },
+  "enterBankAccountNumber": "Vui lòng nhập số tài khoản ngân hàng",
+  "@enterBankAccountNumber": {
+    "description": "Thông báo yêu cầu nhập số tài khoản ngân hàng"
+  },
+  "invalidBankAccountNumber": "Số tài khoản không hợp lệ (8-20 chữ số)",
+  "@invalidBankAccountNumber": {
+    "description": "Thông báo lỗi khi số tài khoản ngân hàng không hợp lệ"
+  },
+  "bankAccountNumber": "Số tài khoản ngân hàng",
+  "@bankAccountNumber": {
+    "description": "Nhãn cho trường số tài khoản ngân hàng"
+  },
+  "transferAmount": "Số tiền chuyển khoản",
+  "@transferAmount": {
+    "description": "Nhãn cho trường số tiền chuyển khoản"
+  },
+  "transferTitle": "Chi hộ",
+  "@transferTitle": {
+    "description": "Tiêu đề trang chuyển khoản"
+  },
+  "accountNumber": "Số tài khoản",
+  "@accountNumber": {
+    "description": "Nhãn trường số tài khoản"
+  },
+  "enterAccountNumber": "Số tài khoản",
+  "@enterAccountNumber": {
+    "description": "Gợi ý nhập số tài khoản"
+  },
+  "recipient": "Người nhận",
+  "@recipient": {
+    "description": "Nhãn trường người nhận"
+  },
+  "enterRecipient": "Người nhận",
+  "@enterRecipient": {
+    "description": "Gợi ý nhập người nhận"
+  },
+  "content": "Nội dung",
+  "@content": {
+    "description": "Nhãn trường nội dung"
+  },
+  "enterContent": "Nhập nội dung",
+  "@enterContent": {
+    "description": "Gợi ý nhập nội dung"
+  },
+  "selectToken": "Chọn token",
+  "@selectToken": {
+    "description": "Tiêu đề dropdown chọn token"
+  },
+  "quantity": "Số lượng",
+  "@quantity": {
+    "description": "Nhãn trường số lượng"
+  },
+  "enterQuantity": "Nhập số lượng",
+  "@enterQuantity": {
+    "description": "Gợi ý nhập số lượng"
+  },
+  "continueText": "Tiếp tục",
+  "@continueText": {
+    "description": "Nút tiếp tục"
+  },
+  "twoFactorAuthentication": "Xác thực hai yếu tố",
+  "@twoFactorAuthentication": {
+    "description": "Tiêu đề 2FA"
+  },
+  "activate2FA": "Kích hoạt 2FA",
+  "@activate2FA": {
+    "description": "Nút kích hoạt 2FA"
+  },
+  "deactivate2FA": "Tắt 2FA",
+  "@deactivate2FA": {
+    "description": "Nút tắt 2FA"
+  },
+  "twoFactorAuthenticationDescription": "Sử dụng Google Authenticator để bảo vệ tài khoản của bạn với một lớp bảo mật bổ sung",
+  "@twoFactorAuthenticationDescription": {
+    "description": "Mô tả 2FA"
+  },
+  "twoFactorAuthenticationActiveDescription": "Google Authenticator hiện đang bảo vệ tài khoản của bạn",
+  "@twoFactorAuthenticationActiveDescription": {
+    "description": "Mô tả 2FA đã kích hoạt"
+  },
+  "twoFactorAuthenticationStatus": "Trạng thái 2FA",
+  "@twoFactorAuthenticationStatus": {
+    "description": "Nhãn trạng thái 2FA"
+  },
+  "twoFactorAuthenticationActive": "Đã kích hoạt",
+  "@twoFactorAuthenticationActive": {
+    "description": "Trạng thái 2FA đã kích hoạt"
+  },
+  "twoFactorAuthenticationInactive": "Chưa kích hoạt",
+  "@twoFactorAuthenticationInactive": {
+    "description": "Trạng thái 2FA chưa kích hoạt"
+  },
+  "setupTwoFactorAuthentication": "Thiết lập xác thực hai yếu tố",
+  "@setupTwoFactorAuthentication": {
+    "description": "Tiêu đề thiết lập 2FA"
+  },
+  "scanQRCodeWithGoogleAuthenticator": "Quét mã QR này bằng ứng dụng Google Authenticator",
+  "@scanQRCodeWithGoogleAuthenticator": {
+    "description": "Hướng dẫn quét QR"
+  },
+  "enterSecretKeyManually": "Hoặc nhập khóa bí mật này theo cách thủ công:",
+  "@enterSecretKeyManually": {
+    "description": "Hướng dẫn nhập khóa bí mật thủ công"
+  },
+  "secretKey": "Khóa bí mật",
+  "@secretKey": {
+    "description": "Nhãn khóa bí mật"
+  },
+  "copySecretKey": "Sao chép khóa bí mật",
+  "@copySecretKey": {
+    "description": "Nút sao chép khóa bí mật"
+  },
+  "secretKeyCopied": "Đã sao chép khóa bí mật vào clipboard",
+  "@secretKeyCopied": {
+    "description": "Thông báo đã sao chép khóa bí mật"
+  },
+  "continueToVerification": "Tiếp tục xác minh",
+  "@continueToVerification": {
+    "description": "Nút tiếp tục xác minh"
+  },
+  "verifyOTPCode": "Xác minh mã OTP",
+  "@verifyOTPCode": {
+    "description": "Tiêu đề xác minh OTP"
+  },
+  "enter6DigitCodeFromAuthenticator": "Nhập mã 6 số từ ứng dụng xác thực của bạn",
+  "@enter6DigitCodeFromAuthenticator": {
+    "description": "Hướng dẫn OTP"
+  },
+  "otpCode": "Mã OTP",
+  "@otpCode": {
+    "description": "Nhãn trường mã OTP"
+  },
+  "verify": "Xác minh",
+  "@verify": {
+    "description": "Nút xác minh"
+  },
+  "backToSetup": "Quay lại thiết lập",
+  "@backToSetup": {
+    "description": "Nút quay lại thiết lập"
+  },
+  "twoFactorAuthenticationActivated": "2FA đã được kích hoạt thành công!",
+  "@twoFactorAuthenticationActivated": {
+    "description": "Thông báo kích hoạt 2FA thành công"
+  },
+  "twoFactorAuthenticationDeactivated": "2FA đã được tắt thành công!",
+  "@twoFactorAuthenticationDeactivated": {
+    "description": "Thông báo tắt 2FA thành công"
+  },
+  "twoFactorAuthenticationActivationFailed": "Không thể kích hoạt 2FA",
+  "@twoFactorAuthenticationActivationFailed": {
+    "description": "Thông báo kích hoạt 2FA thất bại"
+  },
+  "twoFactorAuthenticationDeactivationFailed": "Không thể tắt 2FA",
+  "@twoFactorAuthenticationDeactivationFailed": {
+    "description": "Thông báo tắt 2FA thất bại"
+  },
+  "otpVerificationFailed": "Xác minh OTP thất bại",
+  "@otpVerificationFailed": {
+    "description": "Thông báo xác minh OTP thất bại"
+  },
+  "pleaseEnter6DigitOTP": "Vui lòng nhập đủ 6 số OTP",
+  "@pleaseEnter6DigitOTP": {
+    "description": "Thông báo validation OTP"
+  },
+  "deactivate2FAConfirmation": "Bạn có chắc chắn muốn tắt xác thực hai yếu tố? Điều này sẽ làm cho tài khoản của bạn kém an toàn hơn.",
+  "@deactivate2FAConfirmation": {
+    "description": "Thông báo xác nhận tắt 2FA"
+  },
+  "deactivate2FAConfirmationTitle": "Tắt 2FA",
+  "@deactivate2FAConfirmationTitle": {
+    "description": "Tiêu đề xác nhận tắt 2FA"
+  },
+  "enter6DigitCodeToDeactivate": "Nhập mã 6 số để tắt 2FA",
+  "@enter6DigitCodeToDeactivate": {
+    "description": "Hướng dẫn OTP tắt 2FA"
+  },
+  "cancel": "Hủy",
+  "@cancel": {
+    "description": "Nút hủy"
+  },
+  "googleAuthenticator": "Google Authenticator",
+  "@googleAuthenticator": {
+    "description": "Tên ứng dụng Google Authenticator"
+  },
+  "qrCode": "Mã QR",
+  "@qrCode": {
+    "description": "Nhãn mã QR"
+  },
+  "qrCodeError": "Lỗi mã QR",
+  "@qrCodeError": {
+    "description": "Thông báo lỗi mã QR"
+  },
+  "minimumTransferAmount": "Số lượng phải lớn hơn 5,000",
+  "@minimumTransferAmount": {
+    "description": "Thông báo validation số tiền chuyển tối thiểu"
+  },
+  "pleaseCompleteIdentityVerification": "Vui lòng hoàn thành xác minh danh tính.",
+  "@pleaseCompleteIdentityVerification": {
+    "description": "Thông báo KYC"
+  },
+  "here": "Tại đây",
+  "@here": {
+    "description": "Liên kết 'Tại đây' cho thông báo KYC"
+  },
+  "kycPendingTitle": "KYC ĐANG CHỜ DUYỆT",
+  "@kycPendingTitle": {
+    "description": "Tiêu đề màn hình KYC đang chờ duyệt"
+  },
+  "kycPendingDescription": "Quá trình xác minh đang được xử lý. Chúng tôi sẽ thông báo cho bạn ngay khi hoàn tất.",
+  "@kycPendingDescription": {
+    "description": "Mô tả trạng thái KYC đang chờ duyệt"
+  },
+  "backHome": "Về Trang Chủ",
+  "@backHome": {
+    "description": "Nút về trang chủ"
+  },
+  "kycStatus": "Trạng Thái KYC",
+  "@kycStatus": {
+    "description": "Tiêu đề trạng thái KYC"
+  },
+  "authenticationApp": "Ứng dụng xác thực",
+  "@authenticationApp": {
+    "description": "Mục menu ứng dụng xác thực"
+  },
+  "qrPayment": "Chi hộ",
+  "@qrPayment": {
+    "description": "Loại giao dịch chi hộ"
+  },
+  "confirmQrPayment": "Xác nhận chi hộ",
+  "@confirmQrPayment": {
+    "description": "Tiêu đề xác nhận chi hộ"
+  },
+  "homeTab": "Trang chủ",
+  "@homeTab": {
+    "description": "Nhãn tab Trang chủ trong bottom navigation"
+  },
+  "historyTab": "Lịch sử",
+  "@historyTab": {
+    "description": "Nhãn tab Lịch sử trong bottom navigation"
+  },
+  "voucherTab": "Voucher",
+  "@voucherTab": {
+    "description": "Nhãn tab Voucher trong bottom navigation"
+  },
+  "profileTab": "Cá nhân",
+  "@profileTab": {
+    "description": "Nhãn tab Cá nhân trong bottom navigation"
+  },
+  "depositToken": "Nạp token",
+  "@depositToken": {
+    "description": "Loại giao dịch nạp token"
+  },
+  "withdrawToken": "Rút token",
+  "@withdrawToken": {
+    "description": "Loại giao dịch rút token"
+  },
+  "farmingTab": "Farming",
+  "@farmingTab": {
+    "description": "Nhãn tab Farming"
+  }
+}
+

@@ -1,0 +1,46 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "DNPay • Dev",
+        "request": "launch",
+        "type": "dart",
+        "program": "lib/main.dart",
+        "args": [
+          "--dart-define=FLAVOR=dev"
+        ]
+      },
+      {
+        "name": "DNPay • Dev (env file)",
+        "request": "launch",
+        "type": "dart",
+        "program": "lib/main.dart",
+        "args": [
+          "--dart-define=FLAVOR=dev",
+          "--dart-define-from-file=.env.dev.json"
+        ]
+      },
+      {
+        "name": "DNPay • Profile",
+        "request": "launch",
+        "type": "dart",
+        "program": "lib/main.dart",
+        "flutterMode": "profile",
+        "args": [
+          "--dart-define=FLAVOR=dev"
+        ]
+      },
+      {
+        "name": "DNPay • Prod (release)",
+        "request": "launch",
+        "type": "dart",
+        "program": "lib/main.dart",
+        "flutterMode": "release",
+        "args": [
+          "--dart-define=FLAVOR=prod",
+          "--dart-define-from-file=.env.prod.json"
+        ]
+      }
+    ]
+  }
+  

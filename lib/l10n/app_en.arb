@@ -1,0 +1,1938 @@
+{
+  "@@locale": "en",
+  "loginTitle": "Login",
+  "@loginTitle": {
+    "description": "Title for login page"
+  },
+  "companyField": "Company",
+  "@companyField": {
+    "description": "Company field label"
+  },
+  "companyHint": "Company",
+  "@companyHint": {
+    "description": "Company field hint"
+  },
+  "usernameField": "Username",
+  "@usernameField": {
+    "description": "Username field label"
+  },
+  "passwordField": "Password",
+  "@passwordField": {
+    "description": "Password field label"
+  },
+  "loginButton": "Login",
+  "@loginButton": {
+    "description": "Login button text"
+  },
+  "registerLink": "Don't have an account? Register",
+  "@registerLink": {
+    "description": "Register link text"
+  },
+  "companyRequired": "Company name is required",
+  "@companyRequired": {
+    "description": "Company validation error"
+  },
+  "usernameRequired": "Username is required",
+  "@usernameRequired": {
+    "description": "Username validation error"
+  },
+  "passwordRequired": "Password is required",
+  "@passwordRequired": {
+    "description": "Password validation error"
+  },
+  "invalidCredentials": "Invalid username or password.",
+  "@invalidCredentials": {
+    "description": "Invalid credentials error"
+  },
+  "domainNotRegistered": "You are not registered with us. Please click register below",
+  "@domainNotRegistered": {
+    "description": "Domain not registered error"
+  },
+  "wrongUsername": "Wrong username",
+  "@wrongUsername": {
+    "description": "Wrong username error"
+  },
+  "wrongPassword": "Wrong password",
+  "@wrongPassword": {
+    "description": "Wrong password error"
+  },
+  "networkError": "Cannot connect to server. Please check your company name or network connection.",
+  "@networkError": {
+    "description": "Network error message"
+  },
+  "unknownError": "An unexpected error occurred",
+  "@unknownError": {
+    "description": "Unknown error message"
+  },
+  "sunday": "Sunday",
+  "@sunday": {
+    "description": "Sunday day name"
+  },
+  "monday": "Monday",
+  "@monday": {
+    "description": "Monday day name"
+  },
+  "tuesday": "Tuesday",
+  "@tuesday": {
+    "description": "Tuesday day name"
+  },
+  "wednesday": "Wednesday",
+  "@wednesday": {
+    "description": "Wednesday day name"
+  },
+  "thursday": "Thursday",
+  "@thursday": {
+    "description": "Thursday day name"
+  },
+  "friday": "Friday",
+  "@friday": {
+    "description": "Friday day name"
+  },
+  "saturday": "Saturday",
+  "@saturday": {
+    "description": "Saturday day name"
+  },
+  "day": "day",
+  "@day": {
+    "description": "Day label for date format"
+  },
+  "logoutTitle": "Logout",
+  "@logoutTitle": {
+    "description": "Logout title"
+  },
+  "logoutConfirm": "Logout from your account?",
+  "@logoutConfirm": {
+    "description": "Logout confirmation message"
+  },
+  "logoutButton": "Logout",
+  "@logoutButton": {
+    "description": "Logout button text"
+  },
+  "cancelButton": "Cancel",
+  "@cancelButton": {
+    "description": "Cancel button text"
+  },
+  "logoutSuccess": "Logout successful",
+  "@logoutSuccess": {
+    "description": "Logout success message"
+  },
+  "logoutError": "Logout error",
+  "@logoutError": {
+    "description": "Logout error prefix"
+  },
+  "profileTitle": "Profile",
+  "@profileTitle": {
+    "description": "Profile title"
+  },
+  "userName": "User Name",
+  "@userName": {
+    "description": "User name label"
+  },
+  "menuButton": "Menu",
+  "@menuButton": {
+    "description": "Menu button text"
+  },
+  "homeButton": "Home",
+  "@homeButton": {
+    "description": "Home button text"
+  },
+  "notificationButton": "Notifications",
+  "@notificationButton": {
+    "description": "Notification button text"
+  },
+  "profileButton": "Profile",
+  "@profileButton": {
+    "description": "Profile button text"
+  },
+  "createApplicationButton": "Create Application",
+  "@createApplicationButton": {
+    "description": "Create application button text"
+  },
+  "languageTitle": "Select Language",
+  "@languageTitle": {
+    "description": "Language selection title"
+  },
+  "vietnamese": "Tiếng Việt",
+  "@vietnamese": {
+    "description": "Vietnamese language name"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language name"
+  },
+  "changePasswordTitle": "Change Password",
+  "@changePasswordTitle": {
+    "description": "Change password page title"
+  },
+  "changePasswordButton": "Change Password",
+  "@changePasswordButton": {
+    "description": "Change password button text"
+  },
+  "suggestButton": "Suggest",
+  "@suggestButton": {
+    "description": "Suggest password button text"
+  },
+  "passwordGenerated": "New password generated",
+  "@passwordGenerated": {
+    "description": "Password generation success message"
+  },
+  "notificationsTitle": "Notifications",
+  "@notificationsTitle": {
+    "description": "Notifications page title"
+  },
+  "hrmTitle": "HRM",
+  "@hrmTitle": {
+    "description": "HRM page title"
+  },
+  "homeTitle": "Home",
+  "@homeTitle": {
+    "description": "Home page title"
+  },
+  "registerTitle": "Register HRM",
+  "@registerTitle": {
+    "description": "Register page title"
+  },
+  "registerButton": "Register",
+  "@registerButton": {
+    "description": "Register button text"
+  },
+  "registerSuccess": "Registration successful!",
+  "@registerSuccess": {
+    "description": "Registration success message"
+  },
+  "domainNotRegisteredTitle": "Domain not registered",
+  "@domainNotRegisteredTitle": {
+    "description": "Domain not registered dialog title"
+  },
+  "contactSupport": "Please contact support:",
+  "@contactSupport": {
+    "description": "Contact support message"
+  },
+  "emailLabel": "Email:",
+  "@emailLabel": {
+    "description": "Email label"
+  },
+  "phoneLabel": "Phone:",
+  "@phoneLabel": {
+    "description": "Phone label"
+  },
+  "closeButton": "Close",
+  "@closeButton": {
+    "description": "Close button text"
+  },
+  "sessionExpiredTitle": "Session expired",
+  "@sessionExpiredTitle": {
+    "description": "Session expired dialog title"
+  },
+  "loginAgainButton": "Login again",
+  "@loginAgainButton": {
+    "description": "Login again button text"
+  },
+  "currentPasswordHint": "Current password",
+  "@currentPasswordHint": {
+    "description": "Current password field hint"
+  },
+  "newPasswordHint": "New password",
+  "@newPasswordHint": {
+    "description": "New password field hint"
+  },
+  "confirmPasswordHint": "Confirm new password",
+  "@confirmPasswordHint": {
+    "description": "Confirm password field hint"
+  },
+  "currentPasswordRequired": "Please enter current password",
+  "@currentPasswordRequired": {
+    "description": "Current password validation error"
+  },
+  "newPasswordRequired": "Please enter new password",
+  "@newPasswordRequired": {
+    "description": "New password validation error"
+  },
+  "passwordMinLength": "Password must be at least 8 characters",
+  "@passwordMinLength": {
+    "description": "Password minimum length validation error"
+  },
+  "passwordMustBeDifferent": "New password must be different from current password",
+  "@passwordMustBeDifferent": {
+    "description": "Password must be different validation error"
+  },
+  "confirmPasswordRequired": "Please confirm new password",
+  "@confirmPasswordRequired": {
+    "description": "Confirm password validation error"
+  },
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Password mismatch validation error"
+  },
+  "companyNameRequired": "Please enter company name",
+  "@companyNameRequired": {
+    "description": "Company name validation error"
+  },
+  "erpnextUrlRequired": "Please enter ERPNext URL",
+  "@erpnextUrlRequired": {
+    "description": "ERPNext URL validation error"
+  },
+  "countryRequired": "Please enter country",
+  "@countryRequired": {
+    "description": "Country validation error"
+  },
+  "nameRequired": "Please enter name",
+  "@nameRequired": {
+    "description": "Name validation error"
+  },
+  "emailRequired": "Please enter email",
+  "@emailRequired": {
+    "description": "Email validation error"
+  },
+  "emailInvalid": "Invalid email format",
+  "@emailInvalid": {
+    "description": "Email format validation error"
+  },
+  "phoneRequired": "Please enter phone number",
+  "@phoneRequired": {
+    "description": "Phone number validation error"
+  },
+  "employeeId": "Employee ID",
+  "@employeeId": {
+    "description": "Employee ID label"
+  },
+  "dateOfJoining": "Date of Joining",
+  "@dateOfJoining": {
+    "description": "Date of joining label"
+  },
+  "dateOfBirth": "Date of Birth",
+  "@dateOfBirth": {
+    "description": "Date of birth label"
+  },
+  "gender": "Gender",
+  "@gender": {
+    "description": "Gender label"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email label"
+  },
+  "company": "Company",
+  "@company": {
+    "description": "Company label"
+  },
+  "status": "Status",
+  "@status": {
+    "description": "Status label"
+  },
+  "passwordMinLengthMessage": "Password must be at least 8 characters",
+  "passwordUppercaseMessage": "Password must contain at least one uppercase letter",
+  "passwordLowercaseMessage": "Password must contain at least one lowercase letter",
+  "passwordNumberMessage": "Password must contain at least one number",
+  "passwordSpecialCharMessage": "Password must contain at least one special character",
+  "passwordStrongMessage": "Strong password!",
+  "welcomeBack": "Welcome back",
+  "@welcomeBack": {
+    "description": "Welcome back message on login screen"
+  },
+  "usernameHint": "Enter username",
+  "@usernameHint": {
+    "description": "Username field hint text"
+  },
+  "passwordHint": "Enter password",
+  "@passwordHint": {
+    "description": "Password field hint text"
+  },
+  "forgotPassword": "Forgot password",
+  "@forgotPassword": {
+    "description": "Forgot password link text"
+  },
+  "loginWithGoogle": "Login with Google",
+  "@loginWithGoogle": {
+    "description": "Google login button text"
+  },
+  "orLoginWith": "Or login with",
+  "@orLoginWith": {
+    "description": "Divider text for login options"
+  },
+  "dontHaveAccount": "Don't have an account? ",
+  "@dontHaveAccount": {
+    "description": "Register link prefix text"
+  },
+  "register": "Register",
+  "@register": {
+    "description": "Register link text"
+  },
+  "loginSuccess": "Login successful!",
+  "@loginSuccess": {
+    "description": "Login success message"
+  },
+  "passwordMinLength6": "Password must be at least 6 characters",
+  "@passwordMinLength6": {
+    "description": "Password minimum 6 characters validation error"
+  },
+  "cannotGetGoogleToken": "Cannot get access token from Google",
+  "@cannotGetGoogleToken": {
+    "description": "Google token error message"
+  },
+  "googleLoginFailed": "Google login failed",
+  "@googleLoginFailed": {
+    "description": "Google login failure message"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Error prefix"
+  },
+  "tryAgain": "Try again",
+  "@tryAgain": {
+    "description": "Try again button text"
+  },
+  "searchHint": "Search...",
+  "@searchHint": {
+    "description": "Search field hint text"
+  },
+  "uploadFile": "Upload file",
+  "@uploadFile": {
+    "description": "Upload file button text"
+  },
+  "photoLibrary": "Photo Library",
+  "@photoLibrary": {
+    "description": "Photo library option"
+  },
+  "selectFromLibrary": "Select from library",
+  "@selectFromLibrary": {
+    "description": "Select from library subtitle"
+  },
+  "takePhotoVideo": "Take photo/video",
+  "@takePhotoVideo": {
+    "description": "Take photo/video option"
+  },
+  "takeNewPhotoVideo": "Take new photo or video",
+  "@takeNewPhotoVideo": {
+    "description": "Take new photo/video subtitle"
+  },
+  "selectFile": "Select file",
+  "@selectFile": {
+    "description": "Select file option"
+  },
+  "selectFileFromDevice": "Select file from device",
+  "@selectFileFromDevice": {
+    "description": "Select file from device subtitle"
+  },
+  "cannotSelectImageFromLibrary": "Cannot select image from library",
+  "@cannotSelectImageFromLibrary": {
+    "description": "Cannot select image from library error"
+  },
+  "fileTooLarge": "File {fileName} is too large. Maximum size: {maxSize}",
+  "@fileTooLarge": {
+    "description": "File too large error message",
+    "placeholders": {
+      "fileName": {"type": "String"},
+      "maxSize": {"type": "String"}
+    }
+  },
+  "cannotSelectFile": "Cannot select file",
+  "@cannotSelectFile": {
+    "description": "Cannot select file error"
+  },
+  "uploadImage": "Upload image",
+  "@uploadImage": {
+    "description": "Upload image button text"
+  },
+  "uploadDocument": "Upload document",
+  "@uploadDocument": {
+    "description": "Upload document button text"
+  },
+  "uploadReceipt": "Upload receipt",
+  "@uploadReceipt": {
+    "description": "Upload receipt button text"
+  },
+  "documentDetected": "Document detected!",
+  "@documentDetected": {
+    "description": "Document detected message"
+  },
+  "alignDocument": "Align document",
+  "@alignDocument": {
+    "description": "Align document instruction"
+  },
+  "autoCapturing": "Auto capturing...",
+  "@autoCapturing": {
+    "description": "Auto capturing message"
+  },
+  "documentInstructions": "Place ID card/CCCD or Passport in frame and ensure:\n• All 4 corners are in frame\n• Document is flat, not wrinkled\n• Text is clear, not blurred\n\n🤖 System will auto capture when document is detected",
+  "@documentInstructions": {
+    "description": "Document alignment instructions"
+  },
+  "documentDetectedAutoCapture": "Document detected! Auto capturing...",
+  "@documentDetectedAutoCapture": {
+    "description": "Document detected auto capture message"
+  },
+  "alignDocumentInFrame": "📷 Align document in camera frame",
+  "@alignDocumentInFrame": {
+    "description": "Align document in frame message"
+  },
+  "initializingCamera": "Initializing camera...",
+  "@initializingCamera": {
+    "description": "Initializing camera message"
+  },
+  "cannotTakePhoto": "Cannot take photo",
+  "@cannotTakePhoto": {
+    "description": "Cannot take photo error"
+  },
+  "pleaseGrantCameraPermission": "Please grant camera access in settings",
+  "@pleaseGrantCameraPermission": {
+    "description": "Camera permission error"
+  },
+  "cannotAccessCamera": "Cannot access camera",
+  "@cannotAccessCamera": {
+    "description": "Cannot access camera error"
+  },
+  "noCameraFound": "No camera found on device",
+  "@noCameraFound": {
+    "description": "No camera found error"
+  },
+  "cannotSelectImage": "Cannot select image",
+  "@cannotSelectImage": {
+    "description": "Cannot select image error"
+  },
+  "selectImageFromLibrary": "Select image from library",
+  "@selectImageFromLibrary": {
+    "description": "Select image from library button text"
+  },
+  "registerAccount": "Register Account",
+  "@registerAccount": {
+    "description": "Register account title"
+  },
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Full name field label"
+  },
+  "fullNameHint": "Enter full name",
+  "@fullNameHint": {
+    "description": "Full name field hint"
+  },
+  "fullNameRequired": "Please enter full name",
+  "@fullNameRequired": {
+    "description": "Full name validation error"
+  },
+  "emailHint": "Enter email",
+  "@emailHint": {
+    "description": "Email field hint"
+  },
+  "emailInvalidFormat": "Please enter a valid email",
+  "@emailInvalidFormat": {
+    "description": "Email format validation error"
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password field label"
+  },
+  "confirmPasswordHint": "Re-enter password",
+  "@confirmPasswordHint": {
+    "description": "Confirm password field hint"
+  },
+  "confirmPasswordRequired": "Please confirm password",
+  "@confirmPasswordRequired": {
+    "description": "Confirm password validation error"
+  },
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Password mismatch validation error"
+  },
+  "alreadyHaveAccount": "Already have an account? ",
+  "@alreadyHaveAccount": {
+    "description": "Login link prefix text"
+  },
+  "registerSuccess": "Registration successful!",
+  "@registerSuccess": {
+    "description": "Registration success message"
+  },
+  "forgotPasswordTitle": "Forgot Password",
+  "@forgotPasswordTitle": {
+    "description": "Forgot password page title"
+  },
+  "passwordRecoveryTitle": "Password Recovery",
+  "@passwordRecoveryTitle": {
+    "description": "Password recovery title"
+  },
+  "emailLabel": "Email",
+  "@emailLabel": {
+    "description": "Email field label"
+  },
+  "emailHint": "Enter linked email",
+  "@emailHint": {
+    "description": "Email field hint for password recovery"
+  },
+  "emailRequired": "Please enter email",
+  "@emailRequired": {
+    "description": "Email validation error"
+  },
+  "emailInvalidFormat": "Please enter a valid email",
+  "@emailInvalidFormat": {
+    "description": "Email format validation error"
+  },
+  "captchaCode": "Captcha Code",
+  "@captchaCode": {
+    "description": "Captcha code field label"
+  },
+  "captchaCodeHint": "Enter captcha code",
+  "@captchaCodeHint": {
+    "description": "Captcha code field hint"
+  },
+  "captchaCodeRequired": "Please enter captcha code",
+  "@captchaCodeRequired": {
+    "description": "Captcha code validation error"
+  },
+  "sendOtp": "Send OTP",
+  "@sendOtp": {
+    "description": "Send OTP button text"
+  },
+  "cannotLoadCaptcha": "Cannot load captcha",
+  "@cannotLoadCaptcha": {
+    "description": "Cannot load captcha error"
+  },
+  "pleaseReloadCaptcha": "Please reload captcha",
+  "@pleaseReloadCaptcha": {
+    "description": "Please reload captcha error"
+  },
+  "otpVerificationTitle": "OTP Verification",
+  "@otpVerificationTitle": {
+    "description": "OTP verification page title"
+  },
+  "enterOtpSentToEmail": "Enter the 6-digit code sent to your email:",
+  "@enterOtpSentToEmail": {
+    "description": "OTP instruction text"
+  },
+  "otpCode": "OTP Code",
+  "@otpCode": {
+    "description": "OTP code field label"
+  },
+  "otpMustBe6Digits": "OTP must be 6 digits",
+  "@otpMustBe6Digits": {
+    "description": "OTP validation error"
+  },
+  "newPassword": "New Password",
+  "@newPassword": {
+    "description": "New password field label"
+  },
+  "newPasswordHint": "Enter new password",
+  "@newPasswordHint": {
+    "description": "New password field hint"
+  },
+  "newPasswordRequired": "Please enter password",
+  "@newPasswordRequired": {
+    "description": "New password validation error"
+  },
+  "passwordMinLength6": "Password must be at least 6 characters",
+  "@passwordMinLength6": {
+    "description": "Password minimum 6 characters validation error"
+  },
+  "confirmNewPassword": "Confirm New Password",
+  "@confirmNewPassword": {
+    "description": "Confirm new password field label"
+  },
+  "confirmNewPasswordHint": "Re-enter new password",
+  "@confirmNewPasswordHint": {
+    "description": "Confirm new password field hint"
+  },
+  "confirmNewPasswordRequired": "Please confirm password",
+  "@confirmNewPasswordRequired": {
+    "description": "Confirm new password validation error"
+  },
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Password mismatch validation error"
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Confirm button text"
+  },
+  "pleaseEnterFullOtp": "Please enter all 6 OTP digits",
+  "@pleaseEnterFullOtp": {
+    "description": "Full OTP validation error"
+  },
+  "otpSentToEmail": "Verification code has been sent to your email",
+  "@otpSentToEmail": {
+    "description": "OTP sent to email message"
+  },
+  "passwordRecoveryEmailSent": "Password recovery email has been sent to your inbox",
+  "@passwordRecoveryEmailSent": {
+    "description": "Password recovery email sent message"
+  },
+  "otpVerificationSuccess": "Verification successful",
+  "@otpVerificationSuccess": {
+    "description": "OTP verification success message"
+  },
+  "passwordResetSuccess": "Password has been reset successfully",
+  "@passwordResetSuccess": {
+    "description": "Password reset success message"
+  },
+  "resendOtp": "Resend OTP",
+  "@resendOtp": {
+    "description": "Resend OTP button text"
+  },
+  "getOtp": "Get OTP",
+  "@getOtp": {
+    "description": "Get OTP button text"
+  },
+  "depositToken": "Deposit Token",
+  "@depositToken": {
+    "description": "Deposit token title"
+  },
+  "banking": "Banking",
+  "@banking": {
+    "description": "Banking method"
+  },
+  "bankDeposit": "Bank Deposit",
+  "@bankDeposit": {
+    "description": "Bank deposit title"
+  },
+  "expirationTime": "Expiration Time",
+  "@expirationTime": {
+    "description": "Expiration time label"
+  },
+  "minute": "minute",
+  "@minute": {
+    "description": "Minute unit"
+  },
+  "second": "second",
+  "@second": {
+    "description": "Second unit"
+  },
+  "accountNumber": "Account Number",
+  "@accountNumber": {
+    "description": "Account number label"
+  },
+  "beneficiary": "Beneficiary",
+  "@beneficiary": {
+    "description": "Beneficiary label"
+  },
+  "amount": "Amount",
+  "@amount": {
+    "description": "Amount label"
+  },
+  "content": "Content",
+  "@content": {
+    "description": "Content label"
+  },
+  "done": "Done",
+  "@done": {
+    "description": "Done button text"
+  },
+  "noTokenSupportBankingDeposit": "No tokens support banking deposit",
+  "@noTokenSupportBankingDeposit": {
+    "description": "No token support banking deposit message"
+  },
+  "selectToken": "Select Token",
+  "@selectToken": {
+    "description": "Select token label"
+  },
+  "depositAmount": "Deposit Amount",
+  "@depositAmount": {
+    "description": "Deposit amount label"
+  },
+  "enterAmountVND": "Enter Amount (VND)",
+  "@enterAmountVND": {
+    "description": "Enter amount VND label"
+  },
+  "enterAmount": "Enter Amount",
+  "@enterAmount": {
+    "description": "Enter amount hint"
+  },
+  "errorOccurred": "Error occurred",
+  "@errorOccurred": {
+    "description": "Error occurred message"
+  },
+  "selectNetwork": "Select Network",
+  "@selectNetwork": {
+    "description": "Select network label"
+  },
+  "depositAddress": "Deposit Address",
+  "@depositAddress": {
+    "description": "Deposit address label"
+  },
+  "pleaseSelectTokenFirst": "Please select token first",
+  "@pleaseSelectTokenFirst": {
+    "description": "Please select token first message"
+  },
+  "addressCopiedToClipboard": "Address copied to clipboard",
+  "@addressCopiedToClipboard": {
+    "description": "Address copied to clipboard message"
+  },
+  "qrCodeDownloaded": "QR code downloaded",
+  "@qrCodeDownloaded": {
+    "description": "QR code downloaded message"
+  },
+  "download": "Download",
+  "@download": {
+    "description": "Download button text"
+  },
+  "failedToLoadDepositData": "Failed to load deposit data",
+  "@failedToLoadDepositData": {
+    "description": "Failed to load deposit data error"
+  },
+  "unexpectedErrorOccurred": "An unexpected error occurred",
+  "@unexpectedErrorOccurred": {
+    "description": "Unexpected error occurred message"
+  },
+  "failedToGenerateDepositAddress": "Failed to generate deposit address",
+  "@failedToGenerateDepositAddress": {
+    "description": "Failed to generate deposit address error"
+  },
+  "failedToSubmitDepositRequest": "Failed to submit deposit request",
+  "@failedToSubmitDepositRequest": {
+    "description": "Failed to submit deposit request error"
+  },
+  "failedToLoadDepositHistory": "Failed to load deposit history",
+  "@failedToLoadDepositHistory": {
+    "description": "Failed to load deposit history error"
+  },
+  "continueText": "Continue",
+  "@continueText": {
+    "description": "Continue button text"
+  },
+  "address": "Address",
+  "@address": {
+    "description": "Address label"
+  },
+  "errorLoadingData": "Error loading data",
+  "@errorLoadingData": {
+    "description": "Error loading data message"
+  },
+  "history": "History",
+  "@history": {
+    "description": "History title"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading text"
+  },
+  "errorLoadingTransactions": "Error loading transactions",
+  "@errorLoadingTransactions": {
+    "description": "Error loading transactions message"
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button text"
+  },
+  "noTransactionsFound": "No transactions found",
+  "@noTransactionsFound": {
+    "description": "No transactions found message"
+  },
+  "transactionHistoryWillAppearHere": "Your transaction history will appear here",
+  "@transactionHistoryWillAppearHere": {
+    "description": "Transaction history placeholder message"
+  },
+  "allTransactionsDisplayed": "All transactions displayed",
+  "@allTransactionsDisplayed": {
+    "description": "All transactions displayed message"
+  },
+  "filters": "Filters",
+  "@filters": {
+    "description": "Filters label"
+  },
+  "clearFilters": "Clear filters",
+  "@clearFilters": {
+    "description": "Clear filters button text"
+  },
+  "transactionType": "Transaction Type",
+  "@transactionType": {
+    "description": "Transaction type label"
+  },
+  "status": "Status",
+  "@status": {
+    "description": "Status label"
+  },
+  "all": "All",
+  "@all": {
+    "description": "All option"
+  },
+  "fromDate": "From Date",
+  "@fromDate": {
+    "description": "From date label"
+  },
+  "toDate": "To Date",
+  "@toDate": {
+    "description": "To date label"
+  },
+  "selectDate": "Select Date",
+  "@selectDate": {
+    "description": "Select date hint"
+  },
+  "stakeToken": "Stake Token",
+  "@stakeToken": {
+    "description": "Stake token option"
+  },
+  "unstakeToken": "Unstake Token",
+  "@unstakeToken": {
+    "description": "Unstake token option"
+  },
+  "claimRewards": "Claim Rewards",
+  "@claimRewards": {
+    "description": "Claim rewards option"
+  },
+  "pending": "Pending",
+  "@pending": {
+    "description": "Pending status"
+  },
+  "confirmed": "Confirmed",
+  "@confirmed": {
+    "description": "Confirmed status"
+  },
+  "cancelled": "Cancelled",
+  "@cancelled": {
+    "description": "Cancelled status"
+  },
+  "rejected": "Rejected",
+  "@rejected": {
+    "description": "Rejected status"
+  },
+  "expired": "Expired",
+  "@expired": {
+    "description": "Expired status"
+  },
+  "txid": "TXID",
+  "@txid": {
+    "description": "Transaction ID label"
+  },
+  "amount": "Amount",
+  "@amount": {
+    "description": "Amount label"
+  },
+  "time": "Time",
+  "@time": {
+    "description": "Time label"
+  },
+  "type": "Type",
+  "@type": {
+    "description": "Type label"
+  },
+  "detail": "Detail",
+  "@detail": {
+    "description": "Detail link text"
+  },
+  "action": "Action",
+  "@action": {
+    "description": "Action label"
+  },
+  "verify": "Verify",
+  "@verify": {
+    "description": "Verify button text"
+  },
+  "stakingReward": "Staking/Reward",
+  "@stakingReward": {
+    "description": "Staking/Reward label"
+  },
+  "balance": "Balance",
+  "@balance": {
+    "description": "Balance label"
+  },
+  "depositToken": "Deposit",
+  "@depositToken": {
+    "description": "Deposit button text"
+  },
+  "withdrawToken": "Withdraw",
+  "@withdrawToken": {
+    "description": "Withdraw button text"
+  },
+  "selectAccount": "Select Account",
+  "@selectAccount": {
+    "description": "Select account title"
+  },
+  "assets": "Assets",
+  "@assets": {
+    "description": "Assets section title"
+  },
+  "services": "Services",
+  "@services": {
+    "description": "Services section title"
+  },
+  "support": "Support",
+  "@support": {
+    "description": "Support service label"
+  },
+  "scanQR": "Scan QR",
+  "@scanQR": {
+    "description": "Scan QR service label"
+  },
+  "scanQrCodeTitle": "Scan QR Code",
+  "@scanQrCodeTitle": {
+    "description": "Scan QR code page title"
+  },
+  "noImagesAvailable": "No images available",
+  "@noImagesAvailable": {
+    "description": "Message when no bank images are available"
+  },
+  "invalidQrCode": "QR code is invalid or not supported",
+  "@invalidQrCode": {
+    "description": "Error message for invalid QR code"
+  },
+  "voucher": "Voucher",
+  "@voucher": {
+    "description": "Voucher service label"
+  },
+  "overnightInterest": "Overnight Interest",
+  "@overnightInterest": {
+    "description": "Overnight interest service label"
+  },
+  "paymentHistory": "Payment History",
+  "@paymentHistory": {
+    "description": "Payment history section title"
+  },
+  "viewAll": "View All",
+  "@viewAll": {
+    "description": "View all button text"
+  },
+  "buyVoucher": "BUY VOUCHER",
+  "@buyVoucher": {
+    "description": "Buy voucher title"
+  },
+  "goNow": "Go Now",
+  "@goNow": {
+    "description": "Go now button text"
+  },
+  "buyVoucherDescription": "Buy electronic vouchers easily, quickly and conveniently",
+  "@buyVoucherDescription": {
+    "description": "Buy voucher description text"
+  },
+  "failed": "Failed",
+  "@failed": {
+    "description": "Failed status"
+  },
+  "kyc": "KYC",
+  "@kyc": {
+    "description": "KYC title"
+  },
+  "documentType": "Document Type",
+  "@documentType": {
+    "description": "Document type label"
+  },
+  "idCard": "ID Card",
+  "@idCard": {
+    "description": "ID Card option"
+  },
+  "passport": "Passport",
+  "@passport": {
+    "description": "Passport option"
+  },
+  "currentAddress": "Current Address",
+  "@currentAddress": {
+    "description": "Current address label"
+  },
+  "city": "City",
+  "@city": {
+    "description": "City label"
+  },
+  "selectCity": "Select City",
+  "@selectCity": {
+    "description": "Select city hint"
+  },
+  "ward": "Ward/Commune",
+  "@ward": {
+    "description": "Ward label"
+  },
+  "pleaseSelectCityFirst": "Please select city first",
+  "@pleaseSelectCityFirst": {
+    "description": "Please select city first message"
+  },
+  "selectWard": "Select Ward/Commune",
+  "@selectWard": {
+    "description": "Select ward hint"
+  },
+  "address": "Address",
+  "@address": {
+    "description": "Address label"
+  },
+  "enterAddress": "Enter address...",
+  "@enterAddress": {
+    "description": "Enter address hint"
+  },
+  "pleaseEnterAddress": "Please enter address",
+  "@pleaseEnterAddress": {
+    "description": "Please enter address validation"
+  },
+  "pleaseSelect": "Please select {label}",
+  "@pleaseSelect": {
+    "description": "Please select validation message",
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "submitKYC": "Submit KYC",
+  "@submitKYC": {
+    "description": "Submit KYC button"
+  },
+  "cannotInitializeCamera": "Cannot initialize camera",
+  "@cannotInitializeCamera": {
+    "description": "Cannot initialize camera error"
+  },
+  "cameraNotReady": "Camera not ready",
+  "@cameraNotReady": {
+    "description": "Camera not ready error"
+  },
+  "recordingVideoLookStraight": "Recording video - Look straight at camera",
+  "@recordingVideoLookStraight": {
+    "description": "Recording video instruction"
+  },
+  "cannotStartVideoRecording": "Cannot start video recording",
+  "@cannotStartVideoRecording": {
+    "description": "Cannot start video recording error"
+  },
+  "errorFileNotVideo": "Error: File is not a video. Please try again.",
+  "@errorFileNotVideo": {
+    "description": "File not video error"
+  },
+  "videoAndFaceImagesSavedSuccessfully": "Video and face images saved successfully!",
+  "@videoAndFaceImagesSavedSuccessfully": {
+    "description": "Video and face images saved success message"
+  },
+  "errorStoppingVideoRecording": "Error stopping video recording",
+  "@errorStoppingVideoRecording": {
+    "description": "Error stopping video recording message"
+  },
+  "pleaseEnterFullName": "Please enter full name",
+  "@pleaseEnterFullName": {
+    "description": "Please enter full name validation"
+  },
+  "pleaseSelectDateOfBirth": "Please select date of birth",
+  "@pleaseSelectDateOfBirth": {
+    "description": "Please select date of birth validation"
+  },
+  "pleaseSelectCity": "Please select city",
+  "@pleaseSelectCity": {
+    "description": "Please select city validation"
+  },
+  "pleaseSelectWard": "Please select ward/commune",
+  "@pleaseSelectWard": {
+    "description": "Please select ward validation"
+  },
+  "pleaseEnterIdNumber": "Please enter ID number",
+  "@pleaseEnterIdNumber": {
+    "description": "Please enter ID number validation"
+  },
+  "pleaseUploadFrontImage": "Please upload front image",
+  "@pleaseUploadFrontImage": {
+    "description": "Please upload front image validation"
+  },
+  "pleaseUploadBackImage": "Please upload back image",
+  "@pleaseUploadBackImage": {
+    "description": "Please upload back image validation"
+  },
+  "pleaseRecordVerificationVideo": "Please record verification video",
+  "@pleaseRecordVerificationVideo": {
+    "description": "Please record verification video validation"
+  },
+  "verificationVideoInvalid": "Verification video is invalid",
+  "@verificationVideoInvalid": {
+    "description": "Verification video invalid validation"
+  },
+  "noFaceImagesPleaseRecordAgain": "No face images. Please record video again.",
+  "@noFaceImagesPleaseRecordAgain": {
+    "description": "No face images validation"
+  },
+  "pleaseSelectCountry": "Please select country",
+  "@pleaseSelectCountry": {
+    "description": "Please select country validation"
+  },
+  "pleaseEnterPassportNumber": "Please enter passport number",
+  "@pleaseEnterPassportNumber": {
+    "description": "Please enter passport number validation"
+  },
+  "pleaseUploadPassportImage": "Please upload passport image",
+  "@pleaseUploadPassportImage": {
+    "description": "Please upload passport image validation"
+  },
+  "processingKYC": "Processing KYC...",
+  "@processingKYC": {
+    "description": "Processing KYC message"
+  },
+  "kycSubmittedSuccessfully": "KYC submitted successfully!",
+  "@kycSubmittedSuccessfully": {
+    "description": "KYC submitted successfully message"
+  },
+  "openingNativeCamera": "Opening native camera...",
+  "@openingNativeCamera": {
+    "description": "Opening native camera message"
+  },
+  "videoRecordedSuccessfullyWithNativeCamera": "Video recorded successfully with native camera!",
+  "@videoRecordedSuccessfullyWithNativeCamera": {
+    "description": "Video recorded successfully with native camera message"
+  },
+  "videoRecordingFailedPleaseTryAgain": "Video recording failed. Please try again.",
+  "@videoRecordingFailedPleaseTryAgain": {
+    "description": "Video recording failed message"
+  },
+  "cameraError": "Camera error",
+  "@cameraError": {
+    "description": "Camera error message"
+  },
+  "recordVerificationVideo": "Record Verification Video",
+  "@recordVerificationVideo": {
+    "description": "Record verification video title"
+  },
+  "recordVideo30SecondsAndCapture3FaceAngles": "Record video 30 seconds and capture 3 face angles automatically (straight, left, right)",
+  "@recordVideo30SecondsAndCapture3FaceAngles": {
+    "description": "Record video instruction"
+  },
+  "videoRecordedSuccessfully": "Video recorded successfully",
+  "@videoRecordedSuccessfully": {
+    "description": "Video recorded successfully status"
+  },
+  "capturedAll3FaceAngles": "Captured all 3 face angles",
+  "@capturedAll3FaceAngles": {
+    "description": "Captured all face angles status"
+  },
+  "recordVideoAgain": "Record Video Again",
+  "@recordVideoAgain": {
+    "description": "Record video again button"
+  },
+  "startRecordingVideo": "Start Recording Video",
+  "@startRecordingVideo": {
+    "description": "Start recording video button"
+  },
+  "instructions": "Instructions:",
+  "@instructions": {
+    "description": "Instructions label"
+  },
+  "videoRecordingInstructions": "1. Press \"Start Recording Video\"\n2. Camera will open automatically\n3. Look straight at camera\n4. Turn face left and right\n5. Video will stop automatically when all 3 angles are captured",
+  "@videoRecordingInstructions": {
+    "description": "Video recording instructions"
+  },
+  "errorLoadingCities": "Error loading cities list",
+  "@errorLoadingCities": {
+    "description": "Error loading cities message"
+  },
+  "errorLoadingWards": "Error loading wards list",
+  "@errorLoadingWards": {
+    "description": "Error loading wards message"
+  },
+  "errorLoadingCountries": "Error loading countries list",
+  "@errorLoadingCountries": {
+    "description": "Error loading countries message"
+  },
+  "personalInformation": "Personal Information",
+  "@personalInformation": {
+    "description": "Personal information label"
+  },
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Full name label"
+  },
+  "enterYourName": "Enter your name",
+  "@enterYourName": {
+    "description": "Enter your name hint"
+  },
+  "dateOfBirth": "Date of Birth",
+  "@dateOfBirth": {
+    "description": "Date of birth label"
+  },
+  "selectDateOfBirth": "Select date of birth",
+  "@selectDateOfBirth": {
+    "description": "Select date of birth hint"
+  },
+  "personalDocuments": "Personal Documents",
+  "@personalDocuments": {
+    "description": "Personal documents label"
+  },
+  "frontSide": "Front Side",
+  "@frontSide": {
+    "description": "Front side label"
+  },
+  "backSide": "Back Side",
+  "@backSide": {
+    "description": "Back side label"
+  },
+  "enterIdNumber": "Enter ID number",
+  "@enterIdNumber": {
+    "description": "Enter ID number hint"
+  },
+  "invalidIdNumber": "Invalid ID number",
+  "@invalidIdNumber": {
+    "description": "Invalid ID number validation"
+  },
+  "upload": "Upload",
+  "@upload": {
+    "description": "Upload button text"
+  },
+  "openCamera": "Open Camera",
+  "@openCamera": {
+    "description": "Open camera button text"
+  },
+  "noOvernightInterest": "No overnight interest",
+  "@noOvernightInterest": {
+    "description": "Message when there is no overnight interest data"
+  },
+  "holdDnpayToReceiveDailyInterest": "Hold DNPAY to receive daily interest",
+  "@holdDnpayToReceiveDailyInterest": {
+    "description": "Instruction message for holding DNPAY to receive daily interest"
+  },
+  "reward": "Reward",
+  "@reward": {
+    "description": "Reward label"
+  },
+  "penalty": "Penalty",
+  "@penalty": {
+    "description": "Penalty label"
+  },
+  "errorLoadingOvernightInterest": "Error loading overnight interest data",
+  "@errorLoadingOvernightInterest": {
+    "description": "Error message when loading overnight interest data fails"
+  },
+  "errorRefreshingData": "Error refreshing data",
+  "@errorRefreshingData": {
+    "description": "Error message when refreshing data fails"
+  },
+  "errorLoadingMoreData": "Error loading more data",
+  "@errorLoadingMoreData": {
+    "description": "Error message when loading more data fails"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile title"
+  },
+  "transactionLimit": "Transaction Limit",
+  "@transactionLimit": {
+    "description": "Transaction limit label"
+  },
+  "yourVoucher": "Your Voucher",
+  "@yourVoucher": {
+    "description": "Your voucher menu item"
+  },
+  "confirmLogout": "Are you sure you want to logout?",
+  "@confirmLogout": {
+    "description": "Logout confirmation message"
+  },
+  "currentPassword": "Current Password",
+  "@currentPassword": {
+    "description": "Current password label"
+  },
+  "pleaseEnterCurrentPassword": "Please enter current password",
+  "@pleaseEnterCurrentPassword": {
+    "description": "Current password validation message"
+  },
+  "pleaseEnterNewPassword": "Please enter new password",
+  "@pleaseEnterNewPassword": {
+    "description": "New password validation message"
+  },
+  "passwordMustBeAtLeast6Characters": "Password must be at least 6 characters",
+  "@passwordMustBeAtLeast6Characters": {
+    "description": "Password length validation message"
+  },
+  "pleaseConfirmPassword": "Please confirm password",
+  "@pleaseConfirmPassword": {
+    "description": "Password confirmation validation message"
+  },
+  "passwordConfirmationDoesNotMatch": "Password confirmation does not match",
+  "@passwordConfirmationDoesNotMatch": {
+    "description": "Password confirmation mismatch message"
+  },
+  "passwordChangedSuccessfully": "Password changed successfully",
+  "@passwordChangedSuccessfully": {
+    "description": "Password change success message"
+  },
+  "newPasswordMustBeDifferentFromCurrent": "New password must be different from current password",
+  "@newPasswordMustBeDifferentFromCurrent": {
+    "description": "New password validation message"
+  },
+  "selectLanguageTitle": "Select Language",
+  "@selectLanguageTitle": {
+    "description": "Select language title"
+  },
+  "selectVoucher": "Select Voucher",
+  "@selectVoucher": {
+    "description": "Select voucher title"
+  },
+  "applyLocation": "Apply Location",
+  "@applyLocation": {
+    "description": "Apply location title"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Description title"
+  },
+  "note": "Note",
+  "@note": {
+    "description": "Note title"
+  },
+  "exchangeVoucher": "Exchange Voucher",
+  "@exchangeVoucher": {
+    "description": "Exchange voucher title"
+  },
+  "errorLoadingCheckoutInfo": "Error loading checkout information. Please try again later.",
+  "@errorLoadingCheckoutInfo": {
+    "description": "Error message when loading checkout info fails"
+  },
+  "brandName": "Brand Name",
+  "@brandName": {
+    "description": "Brand name label"
+  },
+  "searchByBrandName": "Search by brand name",
+  "@searchByBrandName": {
+    "description": "Search by brand name hint"
+  },
+  "category": "Category",
+  "@category": {
+    "description": "Category label"
+  },
+  "province": "Province",
+  "@province": {
+    "description": "Province label"
+  },
+  "quantity": "Quantity",
+  "@quantity": {
+    "description": "Quantity label"
+  },
+  "withdrawToken": "Withdraw",
+  "@withdrawToken": {
+    "description": "Withdraw token title"
+  },
+  "selectNetwork": "Select Network",
+  "@selectNetwork": {
+    "description": "Select network label"
+  },
+  "pleaseSelectNetworkFirst": "Please select network first",
+  "@pleaseSelectNetworkFirst": {
+    "description": "Please select network first message"
+  },
+  "selectToken": "Select Token",
+  "@selectToken": {
+    "description": "Select token label"
+  },
+  "walletAddress": "Wallet Address",
+  "@walletAddress": {
+    "description": "Wallet address label"
+  },
+  "enterWalletAddress": "Enter wallet address",
+  "@enterWalletAddress": {
+    "description": "Enter wallet address hint"
+  },
+  "enterQuantity": "Enter quantity",
+  "@enterQuantity": {
+    "description": "Enter quantity hint"
+  },
+  "max": "Max",
+  "@max": {
+    "description": "Max button text"
+  },
+  "insufficientBalanceForFee": "Insufficient balance to pay fee",
+  "@insufficientBalanceForFee": {
+    "description": "Insufficient balance for fee message"
+  },
+  "transactionSummary": "Transaction Summary",
+  "@transactionSummary": {
+    "description": "Transaction summary title"
+  },
+  "fee": "Fee",
+  "@fee": {
+    "description": "Fee label"
+  },
+  "networkWarningMessage": "The network you have chosen is",
+  "@networkWarningMessage": {
+    "description": "Network warning message part 1"
+  },
+  "networkWarningMessage2": "please make sure that the network supports",
+  "@networkWarningMessage2": {
+    "description": "Network warning message part 2"
+  },
+  "withdrawalOnly": "withdrawal only",
+  "@withdrawalOnly": {
+    "description": "Withdrawal only text"
+  },
+  "networkWarningMessage3": "You may lose your assets if the chosen platform does not support the completion of the wrong asset loading.",
+  "@networkWarningMessage3": {
+    "description": "Network warning message part 3"
+  },
+  "otpSentSuccessfully": "OTP sent successfully",
+  "@otpSentSuccessfully": {
+    "description": "OTP sent successfully message"
+  },
+  "errorSendingOtp": "Error sending OTP",
+  "@errorSendingOtp": {
+    "description": "Error sending OTP message"
+  },
+  "confirmWithdraw": "Confirm Withdraw",
+  "@confirmWithdraw": {
+    "description": "Confirm withdraw title"
+  },
+  "confirmOtp": "Confirm OTP",
+  "@confirmOtp": {
+    "description": "Confirm OTP label"
+  },
+  "resendOtp": "Resend OTP",
+  "@resendOtp": {
+    "description": "Resend OTP button text"
+  },
+  "getOtp": "Get OTP",
+  "@getOtp": {
+    "description": "Get OTP button text"
+  },
+  "withdrawConfirmedSuccessfully": "Withdraw confirmed successfully",
+  "@withdrawConfirmedSuccessfully": {
+    "description": "Withdraw confirmed successfully message"
+  },
+  "errorConfirmingWithdraw": "Error confirming withdraw",
+  "@errorConfirmingWithdraw": {
+    "description": "Error confirming withdraw message"
+  },
+  "continueText": "Continue",
+  "@continueText": {
+    "description": "Continue button text"
+  },
+  "farming": "Farming",
+  "@farming": {
+    "description": "Farming service label"
+  },
+  "myFarming": "My Farming",
+  "@myFarming": {
+    "description": "My farming service label"
+  },
+  "stakingReward": "Staking/Reward",
+  "@stakingReward": {
+    "description": "Staking/Reward label"
+  },
+  "apr": "APR",
+  "@apr": {
+    "description": "APR label"
+  },
+  "lockupPeriod": "Lock-up Period",
+  "@lockupPeriod": {
+    "description": "Lock-up period label"
+  },
+  "cycle": "Cycle",
+  "@cycle": {
+    "description": "Cycle label"
+  },
+  "startDate": "Start Date",
+  "@startDate": {
+    "description": "Start date label"
+  },
+  "stakingStartsIn": "Staking starts in",
+  "@stakingStartsIn": {
+    "description": "Staking starts in countdown label"
+  },
+  "status": "Status",
+  "@status": {
+    "description": "Status label"
+  },
+  "action": "Action",
+  "@action": {
+    "description": "Action label"
+  },
+  "upcoming": "Upcoming",
+  "@upcoming": {
+    "description": "Upcoming status"
+  },
+  "active": "Active",
+  "@active": {
+    "description": "Active status"
+  },
+  "ended": "Ended",
+  "@ended": {
+    "description": "Ended status"
+  },
+  "completed": "Completed",
+  "@completed": {
+    "description": "Completed status"
+  },
+  "unknown": "Unknown",
+  "@unknown": {
+    "description": "Unknown status"
+  },
+  "details": "Details",
+  "@details": {
+    "description": "Details button text"
+  },
+  "days": "days",
+  "@days": {
+    "description": "Days unit"
+  },
+  "hours": "hours",
+  "@hours": {
+    "description": "Hours unit"
+  },
+  "minutes": "minutes",
+  "@minutes": {
+    "description": "Minutes unit"
+  },
+  "seconds": "seconds",
+  "@seconds": {
+    "description": "Seconds unit"
+  },
+  "stakingEndsIn": "Staking ends in",
+  "@stakingEndsIn": {
+    "description": "Staking ends in countdown label"
+  },
+  "stakedAmount": "Staked Amount",
+  "@stakedAmount": {
+    "description": "Staked amount label"
+  },
+  "estimatedProfit": "Estimated Profit",
+  "@estimatedProfit": {
+    "description": "Estimated profit label"
+  },
+  "rewardsReceived": "Rewards Received",
+  "@rewardsReceived": {
+    "description": "Rewards received label"
+  },
+  "unstakeTime": "Unstake Time",
+  "@unstakeTime": {
+    "description": "Unstake time label"
+  },
+  "tapToStartRecording": "Tap to Start Recording",
+  "@tapToStartRecording": {
+    "description": "Text shown when ready to start recording"
+  },
+  "recordVideoInstructions": "Position your face in the camera frame and tap to start recording. The video will be recorded for verification purposes.",
+  "@recordVideoInstructions": {
+    "description": "Instructions for video recording"
+  },
+  "startRecording": "Start Recording",
+  "@startRecording": {
+    "description": "Button text to start recording"
+  },
+  "cameraError": "Camera Error",
+  "@cameraError": {
+    "description": "Camera error title"
+  },
+  "openingNativeCamera": "Opening Native Camera",
+  "@openingNativeCamera": {
+    "description": "Message when opening native camera"
+  },
+  "capturedFaceImages": "Captured Face Images",
+  "@capturedFaceImages": {
+    "description": "Label for captured face images"
+  },
+  "kycVerification": "KYC Verification",
+  "@kycVerification": {
+    "description": "KYC verification title"
+  },
+  "enterYourAddress": "Enter your address",
+  "@enterYourAddress": {
+    "description": "Address field hint"
+  },
+  "pleaseEnterYourAddress": "Please enter your address",
+  "@pleaseEnterYourAddress": {
+    "description": "Address validation error"
+  },
+  "submitKyc": "Submit KYC",
+  "@submitKyc": {
+    "description": "Submit KYC button text"
+  },
+  "videoRecordedSuccessfullyWithNativeCamera": "Video recorded successfully with native camera",
+  "@videoRecordedSuccessfullyWithNativeCamera": {
+    "description": "Success message for native camera recording"
+  },
+  "videoRecordingFailedPleaseTryAgain": "Video recording failed, please try again",
+  "@videoRecordingFailedPleaseTryAgain": {
+    "description": "Error message for failed video recording"
+  },
+  "capturedAll3FaceAngles": "Captured all 3 face angles",
+  "@capturedAll3FaceAngles": {
+    "description": "Message when all face angles are captured"
+  },
+  "startRecordingVideo": "Start Recording Video",
+  "@startRecordingVideo": {
+    "description": "Button text to start recording video"
+  },
+  "recordVideoAgain": "Record Video Again",
+  "@recordVideoAgain": {
+    "description": "Button text to record video again"
+  },
+  "instructions": "Instructions",
+  "@instructions": {
+    "description": "Instructions label"
+  },
+  "videoRecordingInstructions": "Position your face in the camera frame and tap to start recording. The video will be recorded for verification purposes.",
+  "@videoRecordingInstructions": {
+    "description": "Instructions for video recording"
+  },
+  "startsIn": "Starts in",
+  "@startsIn": {
+    "description": "Starts in countdown label"
+  },
+  "endsIn": "Ends in",
+  "@endsIn": {
+    "description": "Ends in countdown label"
+  },
+  "endedAt": "Ended at",
+  "@endedAt": {
+    "description": "Ended at time label"
+  },
+  "timeStatus": "Time Status",
+  "@timeStatus": {
+    "description": "Time status label"
+  },
+  "imageSelectionFailed": "Failed to select image. Please try again.",
+  "@imageSelectionFailed": {
+    "description": "Error message when image selection from gallery fails"
+  },
+  "unexpectedProblemOccurred": "An unexpected problem occurred.",
+  "@unexpectedProblemOccurred": {
+    "description": "General error message for unexpected problems"
+  },
+  "fieldRequired": "This field is required",
+  "@fieldRequired": {
+    "description": "Error message when a required field is empty"
+  },
+  "invalidAmount": "Invalid amount",
+  "@invalidAmount": {
+    "description": "Error message when the amount is invalid"
+  },
+  "enterBankAccountNumber": "Please enter bank account number",
+  "@enterBankAccountNumber": {
+    "description": "Prompt to enter bank account number"
+  },
+  "invalidBankAccountNumber": "Invalid bank account number (8-20 digits)",
+  "@invalidBankAccountNumber": {
+    "description": "Error message when bank account number is invalid"
+  },
+  "bankAccountNumber": "Bank account number",
+  "@bankAccountNumber": {
+    "description": "Label for bank account number field"
+  },
+  "transferAmount": "Transfer amount",
+  "@transferAmount": {
+    "description": "Label for transfer amount field"
+  },
+  "transferTitle": "Transfer",
+  "@transferTitle": {
+    "description": "Transfer page title"
+  },
+  "accountNumber": "Account Number",
+  "@accountNumber": {
+    "description": "Account number field label"
+  },
+  "enterAccountNumber": "Account Number",
+  "@enterAccountNumber": {
+    "description": "Account number field hint"
+  },
+  "recipient": "Recipient",
+  "@recipient": {
+    "description": "Recipient field label"
+  },
+  "enterRecipient": "Recipient",
+  "@enterRecipient": {
+    "description": "Recipient field hint"
+  },
+  "content": "Content",
+  "@content": {
+    "description": "Content field label"
+  },
+  "enterContent": "Enter content",
+  "@enterContent": {
+    "description": "Content field hint"
+  },
+  "selectToken": "Select Token",
+  "@selectToken": {
+    "description": "Select token dropdown title"
+  },
+  "quantity": "Quantity",
+  "@quantity": {
+    "description": "Quantity field label"
+  },
+  "enterQuantity": "Enter quantity",
+  "@enterQuantity": {
+    "description": "Quantity field hint"
+  },
+  "continueText": "Continue",
+  "@continueText": {
+    "description": "Continue button text"
+  },
+  "twoFactorAuthentication": "Two-Factor Authentication",
+  "@twoFactorAuthentication": {
+    "description": "2FA title"
+  },
+  "activate2FA": "Activate 2FA",
+  "@activate2FA": {
+    "description": "Activate 2FA button text"
+  },
+  "deactivate2FA": "Deactivate 2FA",
+  "@deactivate2FA": {
+    "description": "Deactivate 2FA button text"
+  },
+  "twoFactorAuthenticationDescription": "Use Google Authenticator to protect your account with an additional layer of security",
+  "@twoFactorAuthenticationDescription": {
+    "description": "2FA description text"
+  },
+  "twoFactorAuthenticationActiveDescription": "Google Authenticator is currently protecting your account",
+  "@twoFactorAuthenticationActiveDescription": {
+    "description": "2FA active description text"
+  },
+  "twoFactorAuthenticationStatus": "2FA Status",
+  "@twoFactorAuthenticationStatus": {
+    "description": "2FA status label"
+  },
+  "twoFactorAuthenticationActive": "Active",
+  "@twoFactorAuthenticationActive": {
+    "description": "2FA active status"
+  },
+  "twoFactorAuthenticationInactive": "Inactive",
+  "@twoFactorAuthenticationInactive": {
+    "description": "2FA inactive status"
+  },
+  "setupTwoFactorAuthentication": "Setup Two-Factor Authentication",
+  "@setupTwoFactorAuthentication": {
+    "description": "Setup 2FA title"
+  },
+  "scanQRCodeWithGoogleAuthenticator": "Scan this QR code with Google Authenticator app",
+  "@scanQRCodeWithGoogleAuthenticator": {
+    "description": "QR code instruction"
+  },
+  "enterSecretKeyManually": "Or enter this secret key manually:",
+  "@enterSecretKeyManually": {
+    "description": "Manual secret key instruction"
+  },
+  "secretKey": "Secret Key",
+  "@secretKey": {
+    "description": "Secret key label"
+  },
+  "copySecretKey": "Copy Secret Key",
+  "@copySecretKey": {
+    "description": "Copy secret key button"
+  },
+  "secretKeyCopied": "Secret key copied to clipboard",
+  "@secretKeyCopied": {
+    "description": "Secret key copied message"
+  },
+  "continueToVerification": "Continue to Verification",
+  "@continueToVerification": {
+    "description": "Continue to verification button"
+  },
+  "verifyOTPCode": "Verify OTP Code",
+  "@verifyOTPCode": {
+    "description": "Verify OTP title"
+  },
+  "enter6DigitCodeFromAuthenticator": "Enter the 6-digit code from your authenticator app",
+  "@enter6DigitCodeFromAuthenticator": {
+    "description": "OTP instruction"
+  },
+  "otpCode": "OTP Code",
+  "@otpCode": {
+    "description": "OTP code field label"
+  },
+  "verify": "Verify",
+  "@verify": {
+    "description": "Verify button text"
+  },
+  "backToSetup": "Back to Setup",
+  "@backToSetup": {
+    "description": "Back to setup button"
+  },
+  "twoFactorAuthenticationActivated": "2FA has been activated successfully!",
+  "@twoFactorAuthenticationActivated": {
+    "description": "2FA activation success message"
+  },
+  "twoFactorAuthenticationDeactivated": "2FA has been deactivated successfully!",
+  "@twoFactorAuthenticationDeactivated": {
+    "description": "2FA deactivation success message"
+  },
+  "twoFactorAuthenticationActivationFailed": "Failed to activate 2FA",
+  "@twoFactorAuthenticationActivationFailed": {
+    "description": "2FA activation failed message"
+  },
+  "twoFactorAuthenticationDeactivationFailed": "Failed to deactivate 2FA",
+  "@twoFactorAuthenticationDeactivationFailed": {
+    "description": "2FA deactivation failed message"
+  },
+  "otpVerificationFailed": "OTP verification failed",
+  "@otpVerificationFailed": {
+    "description": "OTP verification failed message"
+  },
+  "pleaseEnter6DigitOTP": "Please enter all 6 OTP digits",
+  "@pleaseEnter6DigitOTP": {
+    "description": "OTP validation message"
+  },
+  "deactivate2FAConfirmation": "Are you sure you want to deactivate two-factor authentication? This will make your account less secure.",
+  "@deactivate2FAConfirmation": {
+    "description": "Deactivate 2FA confirmation message"
+  },
+  "deactivate2FAConfirmationTitle": "Deactivate 2FA",
+  "@deactivate2FAConfirmationTitle": {
+    "description": "Deactivate 2FA confirmation title"
+  },
+  "enter6DigitCodeToDeactivate": "Enter the 6-digit code to deactivate 2FA",
+  "@enter6DigitCodeToDeactivate": {
+    "description": "Deactivate 2FA OTP instruction"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "googleAuthenticator": "Google Authenticator",
+  "@googleAuthenticator": {
+    "description": "Google Authenticator app name"
+  },
+  "qrCode": "QR Code",
+  "@qrCode": {
+    "description": "QR Code label"
+  },
+  "qrCodeError": "QR Code Error",
+  "@qrCodeError": {
+    "description": "QR Code error message"
+  },
+  "minimumTransferAmount": "Amount must be greater than 5,000",
+  "@minimumTransferAmount": {
+    "description": "Minimum transfer amount validation message"
+  },
+  "pleaseCompleteIdentityVerification": "Please complete identity verification.",
+  "@pleaseCompleteIdentityVerification": {
+    "description": "KYC notification message"
+  },
+  "here": "Here",
+  "@here": {
+    "description": "Here link text for KYC notification"
+  },
+  "kycPendingTitle": "KYC PENDING",
+  "@kycPendingTitle": {
+    "description": "KYC pending screen title"
+  },
+  "kycPendingDescription": "Verification is being processed. We will notify you as soon as it is complete.",
+  "@kycPendingDescription": {
+    "description": "KYC pending description text"
+  },
+  "backHome": "Back Home",
+  "@backHome": {
+    "description": "Back home button text"
+  },
+  "kycStatus": "KYC Status",
+  "@kycStatus": {
+    "description": "KYC status title"
+  },
+  "authenticationApp": "Authentication app",
+  "@authenticationApp": {
+    "description": "Authentication app menu item"
+  },
+  "qrPayment": "QR Payment",
+  "@qrPayment": {
+    "description": "QR payment transaction type"
+  },
+  "confirmQrPayment": "Confirm QR Payment",
+  "@confirmQrPayment": {
+    "description": "Confirm QR payment title"
+  },
+  "homeTab": "Home",
+  "@homeTab": {
+    "description": "Home tab label in bottom navigation"
+  },
+  "historyTab": "History",
+  "@historyTab": {
+    "description": "History tab label in bottom navigation"
+  },
+  "voucherTab": "Voucher",
+  "@voucherTab": {
+    "description": "Voucher tab label in bottom navigation"
+  },
+  "profileTab": "Profile",
+  "@profileTab": {
+    "description": "Profile tab label in bottom navigation"
+  },
+  "depositToken": "Deposit Token",
+  "@depositToken": {
+    "description": "Deposit token transaction type"
+  },
+  "withdrawToken": "Withdraw Token",
+  "@withdrawToken": {
+    "description": "Withdraw token transaction type"
+  },
+  "farmingTab": "Farming",
+  "@farmingTab": {
+    "description": "Farming tab label"
+  }
+}

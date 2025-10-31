@@ -1,0 +1,47 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.organizeImports": "explicit"
+    },
+    "dart.flutterSdkPath": null,
+    "dart.enableSdkFormatter": true,
+    "dart.lineLength": 80,
+    "dart.insertArgumentPlaceholders": false,
+    "dart.updateImportsOnRename": true,
+    "dart.renameFilesWithClasses": "prompt",
+    "dart.completeFunctionCalls": true,
+    "dart.showTodos": true,
+    "dart.warnWhenEditingFilesOutsideWorkspace": true,
+    "dart.analysisExcludedFolders": [
+        ".dart_tool",
+        "build",
+        ".git"
+    ],
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.formatOnPaste": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "files.associations": {
+        "*.dart": "dart"
+    },
+    "files.exclude": {
+        "**/.dart_tool": true,
+        "**/build": true
+    },
+    "search.exclude": {
+        "**/.dart_tool": true,
+        "**/build": true
+    }
+}
